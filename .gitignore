@@ -1,2 +1,4 @@
 # Ignore the .venv directory
 .venv/*
+/HimalayaInsights-checkpoint.ipynb
+study/*
